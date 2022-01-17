@@ -32,7 +32,7 @@
 
 - 💻 I love to do Competitive Programming on daily basis 🤓. <br>
     Now I am 3🌟at CodeChef(max. 1713) and consistently trying hard to improve my rating😋.
-- 🌱 I’m currently learning **Data Structures and Algorithms**🧑‍💻.
+- 🌱 I’m currently learning and practicing **Data Structures and Algorithms**🧑‍💻.
 - 👯 I’m looking to collaborate on **OpenSource Projects**📜.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahaj-shrivastava-1bb29a204/), [Twitter](https://twitter.com/sahaj279), [Gmail](sahajshrivastava.official@gmail.com).
 - 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better🔥!! 💪
@@ -72,7 +72,7 @@
 ## 📊 My Github Stats
 
 <br/>
-<a href="https://github.com/p1yu5h0/github-readme-stats"><img alt="Sahaj Shrivastava's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahaj279&&theme=jolly&layout=compact" /></a>
+<a href="https://github.com/sahaj279/github-readme-stats"><img alt="Sahaj Shrivastava's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahaj279&&theme=jolly&layout=compact" /></a>
 <br>
 <br>
 <br>
