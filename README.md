@@ -74,12 +74,12 @@
 <br/>
 <a href="https://github.com/sahaj279/github-readme-stats"><img alt="Sahaj Shrivastava's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahaj279&&theme=jolly&layout=compact" /></a>
 <br>
-<br>
-<br>
+<!-- <br>
+<br> -->
         
-<a href="https://github.com/sahaj279">
+<!-- <a href="https://github.com/sahaj279">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj279&theme=jolly&layout=compact"  height ="175px"  />
-</a>
+</a> -->
         
 <br/>
 <br>
