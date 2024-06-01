@@ -28,13 +28,12 @@
 ## 👨‍🎓 About Me :
 
 
-- 😎 I'm a full stack developer 😉.
-- 💻 I love to do build applications to solve real life problems and help others as well 🤓.
+- 😎 I'm a full stack developer .
+- 💻 I love to do build applications to solve real life problems and help others as well .
 <!--- 💻 I love to do Competitive Programming on daily basis 🤓. <br>
     Now I am 3🌟at CodeChef(max. 1623) and consistently trying hard to improve my rating😋.-->
-- 🌱 I practice **Data Structures and Algorithms** questions on LeetCode🧑‍💻.
-- 👯 I’m looking to collaborate on **OpenSource Projects**📜.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahaj-shrivastava-1bb29a204/), [Twitter](https://twitter.com/sahaj279), [Gmail](sahajshrivastava.official@gmail.com).
+- 👯 I’m looking to collaborate on **OpenSource Projects**.
+<!-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahaj-shrivastava-1bb29a204/), [Twitter](https://twitter.com/sahaj279), [Gmail](sahajshrivastava.official@gmail.com). -->
 <!--- - 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better🔥!! 💪-->
 <br>
 
